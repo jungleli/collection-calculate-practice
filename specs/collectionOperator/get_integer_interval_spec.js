@@ -1,6 +1,5 @@
 'use strict';
 
-var get_integer_interval = require('../../practices/collectionOperator/get_letter_interval.js');
 
 describe('get_integer_interval', function () {
 

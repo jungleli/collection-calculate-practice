@@ -5,4 +5,3 @@ function collect_all_even(collection) {
   				.filter((val, key) => val % 2 ==0);
 }
 
-module.exports = collect_all_even;

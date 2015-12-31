@@ -1,7 +1,5 @@
 'use strict';
 
-var get_integer_interval_2 = require('../../practices/collectionOperator/get_integer_interval_2.js');
-
 describe('get_integer_interval_2', function () {
 
   var collection_a = [2, 4, 6, 8, 10];
